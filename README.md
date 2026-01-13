@@ -1,7 +1,7 @@
 # Madi-D.github.io
-##Description
+DESCRIPTION
 This is a comprehensive collection of my personal projects. A portfolio of my work where I can expand on different parts of my projects.
-##Technologies Used
+TECHNOLOGIES USED
 
-##How to View
+HOW TO VIEW
 Live Link: 
